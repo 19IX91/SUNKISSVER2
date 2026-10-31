@@ -1,0 +1,4 @@
+*.STL binary
+*.onnx binary
+*.bin binary
+*.zip binary

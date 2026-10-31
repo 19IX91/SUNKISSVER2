@@ -1,0 +1,40 @@
+{
+  "cpp_engine_used": false,
+  "max_cpp_python_observation_difference": null,
+  "max_cpp_python_action_difference": null,
+  "model": "/home/ix/Projects/Unitree_R1_WALK/r1_walk_validation/generated/r1_walk_actuated.xml",
+  "mode": "Python SunkissCore with simulated pelvis ground truth",
+  "world_yaw_deg": 0.0,
+  "world_xy": [
+    0.0,
+    0.0
+  ],
+  "simulated_gain_scale": 1.0,
+  "min_pelvis_height_m": 0.5553828618884961,
+  "max_anchor_xy_error_m": 0.4233096858154464,
+  "max_joint_speed_rad_s": 27.150588603345575,
+  "max_joint_speed_joint": "left_shoulder_roll_joint",
+  "max_joint_speed_time_s": 6.639999999999491,
+  "measured_limit_violation": null,
+  "nonfoot_floor_contacts": [
+    "<unnamed>"
+  ],
+  "physics_timestep_s": 0.002,
+  "initial_z_offset_m": 0.0,
+  "initialization": "first reference pose with zero velocities",
+  "reference_frames": 1326,
+  "steps_completed": 1325,
+  "duration_s": 26.5,
+  "reason": "completed",
+  "max_pelvis_tilt_deg": 56.537,
+  "max_pelvis_tilt_time_s": 22.619999999998342,
+  "max_anchor_orientation_error_rad": 0.3793,
+  "max_anchor_height_error_m": 0.0336,
+  "max_joint_reference_error_rad": 0.859,
+  "max_unclipped_effort_ratio": 1.053,
+  "final_pelvis_position": [
+    0.613689767766684,
+    0.9037149972079811,
+    0.7092749114606823
+  ]
+}

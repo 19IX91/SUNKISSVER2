@@ -1,0 +1,92 @@
+Sunkiss state bridge listening on rt/lowstate + rt/EstimatorData; UDP ('127.0.0.1', 15150)
+state feed stale/missing; withholding estimates
+sent=1 height=0.737m body_speed=0.000m/s
+sent=50 height=0.737m body_speed=0.000m/s
+sent=100 height=0.737m body_speed=0.000m/s
+sent=150 height=0.734m body_speed=0.002m/s
+sent=200 height=0.709m body_speed=0.057m/s
+sent=250 height=0.679m body_speed=0.052m/s
+sent=300 height=0.681m body_speed=0.169m/s
+sent=350 height=0.702m body_speed=0.511m/s
+sent=400 height=0.545m body_speed=0.349m/s
+sent=450 height=0.716m body_speed=1.436m/s
+sent=500 height=0.624m body_speed=0.505m/s
+sent=550 height=0.658m body_speed=0.411m/s
+sent=600 height=0.687m body_speed=0.491m/s
+sent=650 height=0.711m body_speed=0.872m/s
+sent=700 height=0.668m body_speed=0.282m/s
+sent=750 height=0.670m body_speed=0.756m/s
+sent=800 height=0.706m body_speed=0.561m/s
+sent=850 height=0.684m body_speed=0.329m/s
+sent=900 height=0.716m body_speed=0.294m/s
+sent=950 height=0.699m body_speed=0.408m/s
+sent=1000 height=0.677m body_speed=0.487m/s
+sent=1050 height=0.677m body_speed=0.056m/s
+sent=1100 height=0.677m body_speed=0.202m/s
+sent=1150 height=0.660m body_speed=0.385m/s
+sent=1200 height=0.700m body_speed=0.191m/s
+sent=1250 height=0.728m body_speed=0.102m/s
+sent=1300 height=0.736m body_speed=0.519m/s
+sent=1350 height=0.705m body_speed=0.228m/s
+sent=1400 height=0.573m body_speed=0.217m/s
+sent=1450 height=0.644m body_speed=0.648m/s
+sent=1500 height=0.576m body_speed=2.646m/s
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet
+invalid pelvis estimate; withholding packet

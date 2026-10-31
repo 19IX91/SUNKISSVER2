@@ -1,0 +1,18 @@
+ --- Unitree Robotics --- 
+     R1 Controller 
+[2026-10-31 15:26:07.725] [info] Waiting for connection to robot...
+[2026-10-31 15:26:07.925] [info] Connected to robot.
+[2026-10-31 15:26:08.025] [info] Initializing State_Passive ...
+[2026-10-31 15:26:08.025] [info] Initializing State_FixStand ...
+[2026-10-31 15:26:08.026] [info] Initializing State_Tracking ...
+[2026-10-31 15:26:08.026] [info] Policy directory: /home/ix/Projects/sunkiss_deployment/deploy/robots/r1/config/policy/tracking/sunkiss/v1
+[2026-10-31 15:26:08.043] [info] Sunkiss auto-start armed: FixStand blend 2.0s, then 1s countdown; LT+B cancels
+[2026-10-31 15:26:08.043] [info] FSM: Start FixStand
+Starting directly in FixStand, seeded from the measured joint pose.
+Sunkiss auto-start enabled: after the pose blend and countdown, tracking starts without RT+A. Press [LT + B] to cancel.
+[2026-10-31 15:26:10.046] [info] Sunkiss auto-start waiting for tracking entry: Fresh pelvis odometry required; missing/stale feed
+[2026-10-31 15:26:10.049] [info] Sunkiss entry checks pass; countdown started
+[2026-10-31 15:26:10.049] [info] Sunkiss starts in 1s; LT+B cancels
+[2026-10-31 15:26:11.050] [info] Sunkiss auto-start: checking tracking entry conditions
+[2026-10-31 15:26:11.050] [info] FSM: Change state from FixStand to Tracking
+[2026-10-31 15:26:35.311] [error] Tracking fault; holding last motor targets: Anchor orientation gate

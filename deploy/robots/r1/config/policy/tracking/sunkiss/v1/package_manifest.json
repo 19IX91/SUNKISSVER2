@@ -1,0 +1,27 @@
+{
+  "source_package": "/home/rovernix/unitree_rl_mjlab/logs/rsl_rl/r1_tracking/sunkiss_20261028/best_model",
+  "source_checkpoint_sha256": "ce87f08847575359d33aeb8b430d075b3219fa34dbfb118ddcd8e1f916e5b279",
+  "policy_sha256": "11dabf627567d9b591bebbf55bb006c711f0ea6a5e270de30ebd0320b0d18a26",
+  "files": {
+    "exported/policy.onnx": "11dabf627567d9b591bebbf55bb006c711f0ea6a5e270de30ebd0320b0d18a26",
+    "params/reference.bin": "99652a7313d0c31a70273beffcdfc6b5edc532da8191350e9755ec47cf6a6d79",
+    "params/deploy.yaml": "f4a17e07962dcb41e0dd0fd4fadbd20422ae0a615b62d58c766aab03b21ed4d0",
+    "params/reference_footwork_reduced.bin": "945a319b1d5c328865a6cc90a023e9459c7f94ed3df65e38b1fae99ada574a01",
+    "params/reference_global95.bin": "084f756beee12a2e51d29bd32776082557d076764a07cbf7a9bde113680f7883",
+    "params/reference_global95_forward10.bin": "59bcf31ca3553b4a0083381c5e9f616151d2dff440af0bd0c5c67f9b395e1939",
+    "params/reference_global95_sagittal95.bin": "ae60ce74f8c21040aaa874cebe0787fc637e2e4d920251466dcd5f6f1d9db62d",
+    "params/reference_steps105.bin": "ec9d681f20a1bffd13ac02d3d09b5e730e151b30839ea364cb124eebfdf4ad3e",
+    "params/reference_steps105_xy90.bin": "40f8c9b95017376ffc57e0435337536760570c8ce661068de2c44b0a8236918d",
+    "params/reference_steps105_xy90_torsofwd3.bin": "1a155013493e441e76ad3f9a714bfa06862430ff7ca455843d9aa90b4f8b9616",
+    "params/reference_overall95.bin": "09a9b69c9d5b648a615161fe66cb132439b2685401eff18b7f9c28e3ee3f0ef8",
+    "params/reference_legs90.bin": "7a7cfe88c9f31978545cb6aa20db01e5bd9ee02325f5928cb0091769951daa53",
+    "params/reference_legs95.bin": "81dba36ef2e67e8ea5105a17c494ba85a7e7e96d47f58d8ad1d84a31902b5109"
+  },
+  "hardware_execution_verified": false,
+  "motion_adjustment": {
+    "file": "params/reference_overall95.bin",
+    "whole_motion_scale": 0.95,
+    "first_pose_unchanged": true,
+    "note": "Restored the prior larger leg displacement after the additional leg reduction was rejected."
+  }
+}

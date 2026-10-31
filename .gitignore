@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+build/
+build_*/
+CMakeFiles/
+*.o
+*.a
+.env
+.env.*
